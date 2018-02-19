@@ -1,5 +1,6 @@
 ## Vanuatu Red Cross Society 
 Vanuatu - VUT
+
 http://www.vanuaturedcross.org/
 
 - `vanuatu-red-cross.jpeg` retrieved from http://www.vanuaturedcross.org/ on 2018-02-18
